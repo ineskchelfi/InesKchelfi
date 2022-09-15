@@ -26,5 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ineskchelfi&show_icons=true&locale=en" alt="ineskchelfi" /></p>
 
-Developed in India 🇮🇳
-Buy Me A Coffee
