@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ineskchelfi" alt="ineskchelfi" /></a> </p>
 
-- 🌱 I’m currently learning **Embedded systems ans Intenet of Things.**
+- 🌱 I’m currently learning **Embedded systems and Intenet of Things.**
 
 - 💬 Ask me about **anything**
 
