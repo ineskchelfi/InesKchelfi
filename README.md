@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://www.indiaeducation.net/imagesvr_ce/5953/6.gif" />
 
 <h1 align="center">Hi 👋, I'm Ines Kchelfi</h1>
-<h3 align="center">I am an electrical engineering student in the National Engineering School of Tunis (ENIT) specialized in automation and industrial IT. Interested in IoT| IIoT| Security | Embedded systems | Industry 4.0 | Robotics. I am mainly enthusiastic about Embedded systems ans Intenet of Things.</h3>
+<h3 align="center">I am an electrical engineering student in the National Engineering School of Tunis (ENIT) specialized in automation and industrial IT. Interested in IoT| IIoT| Security | Embedded systems | Industry 4.0 | Robotics. I am mainly enthusiastic about Embedded systems and Intenet of Things .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ineskchelfi&label=Profile%20views&color=0e75b6&style=flat" alt="ineskchelfi" /> </p>
 
